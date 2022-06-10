@@ -5,3 +5,4 @@ second
 4: fourth line
 qweqwe
 there was a merging process
+maser before rebase 1
